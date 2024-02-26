@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A server for the Rummy card game",
   "main": "app.js",
+  "scripts": {
+  "test": "echo \"No test specified\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sshh12/Rummy.git"
